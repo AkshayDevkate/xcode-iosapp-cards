@@ -2,4 +2,4 @@
 Xcode IOS card app codewithchris
 
 
-![screenshot1](cardapp1.png)
+![screenshot1](screenshots/cardapp1.png)
